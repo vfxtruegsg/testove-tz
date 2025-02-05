@@ -1,0 +1,52 @@
+/* COMMON */
+
+/* mp */
+
+.s-m-b {
+  margin-bottom: 64px;
+}
+
+.t-m {
+  margin-bottom: 12px;
+}
+
+.m-l-20 {
+  margin-left: 20px;
+}
+
+/* font */
+
+.f-w-700 {
+  font-weight: 700;
+}
+
+.f-w-900 {
+  font-weight: 900;
+}
+
+.titl-gray {
+  color: gray;
+}
+
+/* img */
+
+.img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* ul, ol */
+
+.ul-num {
+  list-style-type: decimal;
+  margin-left: 16px;
+}
+
+/* all */
+
+.link-btn-block {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
